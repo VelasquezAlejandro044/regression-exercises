@@ -1,3 +1,6 @@
+####
+## NOTE: I had created my own wrangle with the Zillow data. I did this in order to get ahead of the project. Adam even helped me doing so. Unfortunately the instructions of how to acquire the wragle file for the lesson were not clear properly so I overwrote the file. I had recreate somenthing similar from screach for the regression project. 
+####
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
